@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sport Bets</string>
+    <string name="aniadir_apuesta">My statistics</string>
+    <string name="apuestas_disponibles">Show Bets</string>
+</resources>

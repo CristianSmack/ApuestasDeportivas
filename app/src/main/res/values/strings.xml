@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Apuestas Deportivas</string>
+    <string name="aniadir_apuesta">Mis Estadísticas</string>
+    <string name="apuestas_disponibles">Apuestas Disponibles</string>
+</resources>
